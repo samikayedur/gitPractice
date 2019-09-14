@@ -1,5 +1,5 @@
 # gitPractice
 git clone <https://github.com/samikayedur/gitPractice.git>
-git add- A
-git commit- m "Practice Directory"
+git add 
+git commit
 git push
